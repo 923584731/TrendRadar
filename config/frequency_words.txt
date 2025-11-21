@@ -1,53 +1,33 @@
-
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-ClaudeCode
-Cursor
-codex
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+ava
+AI
 人工智能
-
+手机
+电脑
+AMD
+Google Gemini
+DeepMind
 自动驾驶
 
-机器人
 
-国产
-中国
+Java
+AI +技术
+人工智能 +技术
+手机 +硬件
+电脑 +硬件
+AMD +处理器
+Google Gemini +大模型
+DeepMind +算法研究
+自动驾驶 +系统开发
 
-美国
-日本
-韩国
 
-芯片
-光刻机
-
-
-新质生产力
-
+Java
+AI +技术
+人工智能 +技术
+手机 +硬件
+电脑 +硬件
+AMD +处理器
+Google Gemini +大模型
+DeepMind +算法研究
+自动驾驶 +系统开发
+!广告
+!培训
